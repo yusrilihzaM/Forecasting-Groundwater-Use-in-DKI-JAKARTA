@@ -12,20 +12,20 @@
 
 **Login**
 
-![](ss\Screenshot 2021-10-16 152556.png)
+![](https://github.com/yusrilihzaM/Forecasting-Groundwater-Use-in-DKI-JAKARTA/blob/main/ss/Screenshot 2021-10-16 152556.png)
 
 **Home**
 
-![](ss\Screenshot 2021-10-16 152226.png)
+![](https://github.com/yusrilihzaM/Forecasting-Groundwater-Use-in-DKI-JAKARTA/blob/main/ss/Screenshot 2021-10-16 152226.png)
 
 
 
-![](ss\Screenshot 2021-10-16 152312.png)
+![](https://github.com/yusrilihzaM/Forecasting-Groundwater-Use-in-DKI-JAKARTA/blob/main/ss/Screenshot 2021-10-16 152312.png)
 
-![Screenshot 2021-10-16 152326](ss\Screenshot 2021-10-16 152326.png)
+![Screenshot 2021-10-16 152326](https://github.com/yusrilihzaM/Forecasting-Groundwater-Use-in-DKI-JAKARTA/blob/main/ss/Screenshot 2021-10-16 152326.png)
 
-![Screenshot 2021-10-16 152340](ss\Screenshot 2021-10-16 152340.png)
+![Screenshot 2021-10-16 152340](https://github.com/yusrilihzaM/Forecasting-Groundwater-Use-in-DKI-JAKARTA/blob/main/ss/Screenshot 2021-10-16 152340.png)
 
-![Screenshot 2021-10-16 152353](ss\Screenshot 2021-10-16 152353.png)
+![Screenshot 2021-10-16 152353](https://github.com/yusrilihzaM/Forecasting-Groundwater-Use-in-DKI-JAKARTA/blob/main/ss/Screenshot 2021-10-16 152353.png)
 
-![Screenshot 2021-10-16 152412](ss\Screenshot 2021-10-16 152412.png)
+![Screenshot 2021-10-16 152412](https://github.com/yusrilihzaM/Forecasting-Groundwater-Use-in-DKI-JAKARTA/blob/main/ss/Screenshot 2021-10-16 152412.png)
